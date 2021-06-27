@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  :star: ReactJS application that helps content creators asnwer questions from their audience
+  :speech_ballon: ReactJS application that helps content creators asnwer questions from their audience
 </p>
 
 <p align="center">
@@ -11,6 +11,10 @@
 
   <img src="https://img.shields.io/github/license/gabrielribeirof/letmeask?style=for-the-badge&color=ca5afa">
 </p>
+
+## :bookmark: Layout
+
+See in this [link](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate) the Figma inital prototype of the Web Layout.
 
 ## :gear: Features
 
@@ -30,14 +34,14 @@
 - **Setting**
   - [ ] Choose between the dark and light theme
 
-## 🧪 Built With
+## :test_tube: Built With
 
-- [React](https://react.js.org): build the user interface
-- [React-Router-Dom](https://npmjs.com/package/react-router-dom): router
-- [ESLint](https://eslint.org): linter
-- [Styled-Components](https://styled-components.com): styles
-- [Typescript](https://typescriptlang.org): javascript superset
-- [Firebase](https://firebase.google.com): used as authentication and database
+- [React](https://react.js.org) - Build the user interface
+- [React-Router-Dom](https://npmjs.com/package/react-router-dom) - Router
+- [ESLint](https://eslint.org) - Linter
+- [Styled-Components](https://styled-components.com) - Styles
+- [Typescript](https://typescriptlang.org)-  Javascript superset
+- [Firebase](https://firebase.google.com) - Used as authentication and database
 
 ## :clipboard: License
 
