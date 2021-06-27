@@ -14,30 +14,30 @@
 
 ## :gear: Features
 
-- General
+- **General**
   - [x] Google Authentication
 
-- Room
+- **Room**
   - [x] Create and remove your rooms
   - [x] Rank questions for beign highlighted or answered
 
-- Questions
+- **Questions**
   - [x] Create and edit your questions
   - [x] Like questions
   - [x] Hightlight questions from you room
   - [x] Mark questions as answered from you room
 
-- Setting
-  - [] Choose between the dark and light theme
+- **Setting**
+  - [ ] Choose between the dark and light theme
 
-## :tube: Built With
+## 🧪 Built With
 
-- React: build the user interface
-- React-Router-Dom: router
-- ESLint: linter
-- Styled-Components: styles
-- Typescript: javascript superset
-- Firebase: used as authentication and database
+- [React](https://react.js.org): build the user interface
+- [React-Router-Dom](https://npmjs.com/package/react-router-dom): router
+- [ESLint](https://eslint.org): linter
+- [Styled-Components](https://styled-components.com): styles
+- [Typescript](https://typescriptlang.org): javascript superset
+- [Firebase](https://firebase.google.com): used as authentication and database
 
 ## :clipboard: License
 
