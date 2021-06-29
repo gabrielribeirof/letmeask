@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 
-export const GlobalStyles = createGlobalStyle`
+export const GlobalStyle = createGlobalStyle`
   * {
     margin: 0;
     padding: 0;
@@ -8,7 +8,8 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    background: #F8F8F8;
+    background: ${({ theme }) => theme.colors.background.main};
+    transition: background 0.2s;
   }
 
   body, input, button, textarea {
